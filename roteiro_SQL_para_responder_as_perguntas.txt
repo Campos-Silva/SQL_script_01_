@@ -1,0 +1,45 @@
+#Criando as tabelas
+
+CREATE TABLE public.BaseDados
+(    
+    IDPRODUTO text,
+    ID_Loja integer,
+    Setor text,
+    Destino text,
+    DataPedido date,
+    DataAprovacao date,
+    DataPrevista date,
+    DataEntrega date,
+    Frete double precision,
+    PesoKg double precision,
+    OcorrenciaDevolucao integer,
+    KMViagem integer,
+    ValorProduto double precision);
+
+CREATE TABLE public.cadastro_loja
+(    
+    ID_Loja integer,
+    TipoLoja text,
+    Filial text);
+
+# Respondendo as Perguntas
+
+SELECT setor, sum(ValorProduto) AS total FROM basedados GROUP BY setor;
+
+SELECT Destino, avg(Frete) AS FreteMedio FROM basedados GROUP BY Destino;
+
+SELECT Setor, avg(ValorProduto) AS ValorProdutoMedio FROM basedados GROUP BY Setor;
+
+SELECT * FROM basedados WHERE setor = 'acessórios';
+
+SELECT * FROM basedados WHERE setor = 'eletrônicos';
+
+SELECT * FROM basedados ORDER BY KMViagem DESC;
+
+SELECT * FROM basedados ORDER BY ValorProduto DESC;
+
+SELECT * FROM basedados ORDER BY PesoKg DESC;
+
+SELECT * FROM basedados WHERE ValorProduto BETWEEN 200 AND 500 ORDER BY ValorProduto DESC LIMIT 10;
+
+SELECT * FROM basedados WHERE OcorrenciaDevolucao > 0;

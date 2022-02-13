@@ -1,0 +1,24 @@
+Perguntas
+
+- Qual o valor total dos produtos vendidos por setor?
+
+- Qual o valor do frete médio por cidade?
+
+- Qual o valor médio de produtos por setor?
+
+- Quais os produtos vendidos para a seção de "acessórios"?
+
+- Quais os produtos vendidos para a seção de "eletrônicos"?
+
+- Quais os produtos que possuem foram vendidos para mais longe?
+
+- Quais os produtos que possuem maior preço?
+
+- Quais os produtos que possuem maior peso?
+
+- Quais os 10 produtos mais caros que possuem valor entre R$200,00 a R$500,00?
+
+- Quais os produtos que tiveram de ser devolvidos?
+
+
+
