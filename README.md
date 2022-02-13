@@ -41,10 +41,17 @@ Eu visei responder as seguintes perguntas:
 
 ## Resultados
 
-Para ficar mais didático e seguindo uma linha de sequência lógica, optei por reescrever cada pergunta seguida das linha de código, e um print do resultado do código
+Para ficar mais didático e seguindo uma linha de sequência lógica, optei por reescrever cada pergunta seguida das linha de código, e um print com as 10 primeiras linhas da tabela resultante.
 
 #### - Qual o valor total dos produtos vendidos por setor?
 
+#### Código: 
 ![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/1_print_codigo.JPG)
+
+
+#### Resultado
+![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/1_print_resultado.JPG)
+
+
 
 
