@@ -45,6 +45,6 @@ Para ficar mais didático e seguindo uma linha de sequência lógica, optei por 
 
 #### - Qual o valor total dos produtos vendidos por setor?
 
-![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/blob/main/1_git_imagem.jpg)
+![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/1_print_codigo.JPG)
 
 
