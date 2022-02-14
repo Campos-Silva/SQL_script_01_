@@ -1,10 +1,11 @@
-![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/blob/main/1_git_imagem.jpg)
-
 # Explorando dados do Setor de Vendas usando SQL
 
-## Objetivo do projeto
+ <left>
+<img src="https://github.com/Campos-Silva/SQL_script_01_/blob/main/ecommerce.jpg" width="650" />
+</left>
 
-![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/alvo_b.png)
+
+## Objetivo do projeto
 
 Nesse projeto viso demonstrar minhas habilitadades técnicas no uso da linguagem SQL através da exploração de dados do setor de vendas.
 
