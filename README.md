@@ -21,7 +21,7 @@ Esse conjunto de dados é de origem de anonimizado e que foi utilizado durante a
 <img src="https://github.com/Campos-Silva/SQL_script_01_/blob/main/postgre_sql_logo.png" width="400" />
 </left>
 
-Utilizei o banco de dados do Postgree para implementar essas análises exploratórias.
+Utilizei o banco de dados do Postgre para implementar essas análises exploratórias.
 
 ## Arquivos:
 
