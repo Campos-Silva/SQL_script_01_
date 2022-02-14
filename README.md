@@ -16,11 +16,18 @@ Para isso demonstrei como utilizamos as principais "funções" do SQL como "SELE
 Esse conjunto de dados é de origem de anonimizado e que foi utilizado durante as aulas que participei da 6ª Turma do Curso Dominando Data Science da FLAI.
 
 ## Observação:
+
+ <left>
+<img src="https://github.com/Campos-Silva/SQL_script_01_/blob/main/postgre_sql_logo.png" width="400" />
+</left>
+
 Utilizei o banco de dados do Postgree para implementar essas análises exploratórias.
 
 ## Arquivos:
 
-![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python/blob/main/icones_v_1.png)
+ <left>
+<img src="https://github.com/Campos-Silva/SQL_script_01_/blob/main/icone_csv.png" width="170" />
+</left>
 
 - Clique [aqui](https://github.com/Campos-Silva/SQL_script_01_/blob/main/roteiro_SQL_para_responder_as_perguntas.txt) para visualizar o script dos códigos na linguagem SQL.
 
@@ -30,7 +37,9 @@ Utilizei o banco de dados do Postgree para implementar essas análises explorat�
 
 ## Métodos
 
-![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/anotacao_b.png)
+ <left>
+<img src="https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/anotacao_b.png" width="200" />
+</left>
 
 Para demonstrar o uso dessas funções eu segui uma sequência lógica de perguntas acerca do conjunto de dados, os quais fui respondendo utilizando essas funções através de linhas de códigos na linguagem SQL
 
@@ -57,8 +66,6 @@ Eu visei responder as seguintes perguntas:
 - 10 - Quais os produtos que tiveram de ser devolvidos?
 
 ## Resultados
-
-![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/resultados_b.jpg)
 
 Para ficar mais didático e seguindo uma linha de sequência lógica, optei por reescrever cada pergunta seguida das linha de código, e um print com as 10 primeiras linhas da tabela resultante.
 
