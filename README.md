@@ -1,6 +1,10 @@
+![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/blob/main/1_git_imagem.jpg)
+
 # Explorando dados do Setor de Vendas usando SQL
 
 ## Objetivo do projeto
+
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/alvo_b.png)
 
 Nesse projeto viso demonstrar minhas habilitadades técnicas no uso da linguagem SQL através da exploração de dados do setor de vendas.
 
@@ -13,7 +17,17 @@ Esse conjunto de dados é de origem de anonimizado e que foi utilizado durante a
 ## Observação:
 Utilizei o banco de dados do Postgree para implementar essas análises exploratórias.
 
+## Arquivos:
+
+![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python/blob/main/icones_v_1.png)
+
+- Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/blob/main/Projeto_01_Parte_C.ipynb) para visualizar o script da parte C.
+
+- Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/blob/main/carros_formatado_pos_analises_exploratorias.csv) para visualizar o Dataset.
+
 ## Métodos
+
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/anotacao_b.png)
 
 Para demonstrar o uso dessas funções eu segui uma sequência lógica de perguntas acerca do conjunto de dados, os quais fui respondendo utilizando essas funções através de linhas de códigos na linguagem SQL
 
@@ -40,6 +54,8 @@ Eu visei responder as seguintes perguntas:
 - 10 - Quais os produtos que tiveram de ser devolvidos?
 
 ## Resultados
+
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/resultados_b.jpg)
 
 Para ficar mais didático e seguindo uma linha de sequência lógica, optei por reescrever cada pergunta seguida das linha de código, e um print com as 10 primeiras linhas da tabela resultante.
 
@@ -141,6 +157,19 @@ Para ficar mais didático e seguindo uma linha de sequência lógica, optei por 
 
 #### Resultado
 ![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/10_print_resultado.JPG)
+
+## Autor:
+
+<img  src="https://raw.githubusercontent.com/Campos-Silva/Campos-Silva/main/perfil_lucas_andrei_campos_silva.png" width="80" alt="cognitiveclass.ai logo" align="left" /> 
+
+### &nbsp;&nbsp;Lucas Andrei Campos-Siva
+
+<p>
+&nbsp;&nbsp;Cientista de Dados / Business Intelligence / Analista de Dados<br/>
+&nbsp;&nbsp;LinkedIn: https://www.linkedin.com/in/lucas-andrei-campos-silva/<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: ds.campossilva@gmail.com<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portifólio de projetos em Data Science: https://github.com/Campos-Silva
+</p>
 
 
 
