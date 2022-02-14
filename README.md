@@ -7,7 +7,7 @@
 
 ## Objetivo do projeto
 
-Nesse projeto viso demonstrar minhas habilitadades técnicas no uso da linguagem SQL através da exploração de dados do setor de vendas.
+Aqui viso demonstrar minhas habilitadades técnicas no uso da linguagem SQL através da exploração de dados do setor de vendas.
 
 Para isso demonstrei como utilizamos as principais "funções" do SQL como "SELECT *", "SELECT * FROM", "WHERE", "GROUP BY", "ORDER BY",  "BETWEEN", e outras demais funções.
 
