@@ -22,9 +22,11 @@ Utilizei o banco de dados do Postgree para implementar essas análises explorat�
 
 ![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python/blob/main/icones_v_1.png)
 
-- Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/blob/main/Projeto_01_Parte_C.ipynb) para visualizar o script da parte C.
+- Clique [aqui](https://github.com/Campos-Silva/SQL_script_01_/blob/main/roteiro_SQL_para_responder_as_perguntas.txt) para visualizar o script dos códigos na linguagem SQL.
 
-- Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/blob/main/carros_formatado_pos_analises_exploratorias.csv) para visualizar o Dataset.
+- Clique [aqui](https://github.com/Campos-Silva/SQL_script_01_/blob/main/perguntas.txt) para visualizar o script das perguntas.
+
+- Clique [aqui](https://github.com/Campos-Silva/SQL_script_01_/blob/main/BaseDados.csv) para visualizar o Dataset.
 
 ## Métodos
 
@@ -171,11 +173,3 @@ Para ficar mais didático e seguindo uma linha de sequência lógica, optei por 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: ds.campossilva@gmail.com<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portifólio de projetos em Data Science: https://github.com/Campos-Silva
 </p>
-
-
-
-
-
-
-
-
